@@ -1,6 +1,6 @@
-```npm install ```
+```  1 )npm install ```
 
 
 
 
-```npm run dev ```
+```2 )npm run dev ```
